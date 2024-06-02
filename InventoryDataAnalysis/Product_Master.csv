@@ -1,0 +1,992 @@
+Unique_Product_ID,Business_Area,Category,Cost_price,Retail_price
+Product 1,BEAUTY,Beauty Accessories,2.2414,0.0097
+Product 2,BEAUTY,Beauty Accessories,3.6153,14.55
+Product 3,BEAUTY,Beauty Accessories,0.231,2.91
+Product 4,BEAUTY,Beauty Accessories,1.8981,9.7
+Product 5,BEAUTY,Beauty Accessories,0.8537,3.88
+Product 6,BEAUTY,Beauty Accessories,2.2205,6.79
+Product 7,BEAUTY,Beauty Accessories,3.4145,11.64
+Product 8,BEAUTY,Beauty Accessories,1.3759,5.82
+Product 9,BEAUTY,Beauty Accessories,0.7584,4.85
+Product 10,BEAUTY,Beauty Accessories,3.3159,9.7
+Product 11,BEAUTY,Beauty Accessories,1.3759,5.82
+Product 12,BEAUTY,Beauty Accessories,1.0645,4.365
+Product 13,BEAUTY,Beauty Accessories,0.231,2.91
+Product 14,BEAUTY,Beauty Accessories,1.9282,5.82
+Product 15,BEAUTY,Beauty Accessories,1.5867,6.305
+Product 16,BEAUTY,Beauty Accessories,0.6512,3.395
+Product 17,BEAUTY,Beauty Accessories,2.106,6.79
+Product 18,BEAUTY,Beauty Accessories,7.9336,19.885
+Product 19,BEAUTY,Beauty Accessories,0.5858,2.91
+Product 20,BEAUTY,Beauty Accessories,2.2495,8.73
+Product 21,BEAUTY,Beauty Accessories,0.9031,3.88
+Product 22,BEAUTY,Beauty Accessories,0.4341,2.425
+Product 23,BEAUTY,Beauty Accessories,0.523,2.1825
+Product 24,BEAUTY,Beauty Accessories,1.3093,4.365
+Product 25,BEAUTY,Beauty Accessories,1.4562,4.8403
+Product 26,BEAUTY,Beauty Accessories,1.4761,3.88
+Product 27,BEAUTY,Beauty Accessories,0.1513,1.4065
+Product 28,BEAUTY,Beauty Accessories,1.7482,5.82
+Product 29,BEAUTY,Beauty Accessories,0.3466,3.395
+Product 30,BEAUTY,Beauty Accessories,0.1646,1.6975
+Product 31,BEAUTY,Beauty Accessories,0.8408,5.335
+Product 32,BEAUTY,Beauty Accessories,0.5918,2.91
+Product 33,BEAUTY,Beauty Accessories,0.4335,2.425
+Product 34,BEAUTY,Beauty Accessories,1.5228,8.536
+Product 35,BEAUTY,Beauty Accessories,0.291,1.6975
+Product 36,BEAUTY,Beauty Accessories,0.1561,1.6975
+Product 37,BEAUTY,Beauty Accessories,1.7575,6.79
+Product 38,BEAUTY,Beauty Accessories,1.3315,4.85
+Product 39,BEAUTY,Beauty Accessories,0.4335,2.425
+Product 40,BEAUTY,Beauty Accessories,0.1807,1.6975
+Product 41,BEAUTY,Beauty Accessories,0.523,2.1825
+Product 42,BEAUTY,Beauty Accessories,6.0255,13.095
+Product 43,BEAUTY,Beauty Accessories,0.523,2.1825
+Product 44,BEAUTY,Beauty Accessories,0.8034,3.395
+Product 45,BEAUTY,Beauty Accessories,0.3619,3.395
+Product 46,BEAUTY,Beauty Accessories,0.5918,2.91
+Product 47,BEAUTY,Beauty Accessories,2.0085,7.7503
+Product 48,BEAUTY,Beauty Accessories,1.7874,5.82
+Product 49,BEAUTY,Beauty Accessories,0.1469,1.6975
+Product 50,BEAUTY,Beauty Accessories,0.5918,2.91
+Product 51,BEAUTY,Beauty Accessories,0.355,4.85
+Product 52,BEAUTY,Beauty Accessories,4.4254,11.64
+Product 53,BEAUTY,Beauty Accessories,4.4374,17.46
+Product 54,BEAUTY,Beauty Accessories,0.3754,2.037
+Product 55,BEAUTY,Beauty Accessories,0.2838,1.94
+Product 56,BEAUTY,Beauty Accessories,0.4467,1.455
+Product 57,BEAUTY,Beauty Accessories,2.5802,8.73
+Product 58,BEAUTY,Beauty Accessories,0.2109,0.97
+Product 59,BEAUTY,Beauty Accessories,0.7059,3.395
+Product 60,BEAUTY,Beauty Accessories,0.1234,1.067
+Product 61,BEAUTY,Beauty Accessories,2.2522,7.76
+Product 62,BEAUTY,Beauty Accessories,0.1607,1.4065
+Product 63,BEAUTY,Beauty Accessories,0.6754,2.91
+Product 64,BEAUTY,Beauty Accessories,0.873,4.947
+Product 65,BEAUTY,Beauty Accessories,0.4174,2.91
+Product 66,BEAUTY,Beauty Accessories,0.1904,1.4065
+Product 67,BEAUTY,Beauty Accessories,0.5021,4.365
+Product 68,BEAUTY,Beauty Accessories,0.6483,1.94
+Product 69,BEAUTY,Beauty Accessories,0.5322,1.746
+Product 70,BEAUTY,Beauty Accessories,0.6512,3.395
+Product 71,BEAUTY,Beauty Accessories,0.847,3.88
+Product 72,BEAUTY,Beauty Accessories,4.3915,14.55
+Product 73,BEAUTY,Beauty Accessories,0.1277,1.5035
+Product 74,BEAUTY,Beauty Accessories,3.314,9.7
+Product 75,BEAUTY,Beauty Accessories,3.3417,9.7
+Product 76,BEAUTY,Beauty Accessories,0.6418,4.85
+Product 77,BEAUTY,Beauty Accessories,0.576,5.335
+Product 78,BEAUTY,Beauty Accessories,1.0107,3.88
+Product 79,BEAUTY,Beauty Accessories,0.2621,2.91
+Product 80,BEAUTY,Beauty Accessories,0.236,1.94
+Product 81,BEAUTY,Beauty Accessories,1.0335,9.603
+Product 82,BEAUTY,Beauty Accessories,3.5242,11.64
+Product 83,BEAUTY,Beauty Accessories,0.8517,4.85
+Product 84,BEAUTY,Beauty Accessories,0.7163,4.85
+Product 85,BEAUTY,Beauty Accessories,0.4231,2.91
+Product 86,BEAUTY,Beauty Accessories,0.7315,5.82
+Product 87,BEAUTY,Beauty Accessories,0.8421,2.91
+Product 88,BEAUTY,Beauty Accessories,0.4702,2.91
+Product 89,BEAUTY,Beauty Accessories,10.0425,24.2403
+Product 90,BEAUTY,Beauty Accessories,1.0805,9.7
+Product 91,BEAUTY,Beauty Accessories,0.8542,4.85
+Product 92,BEAUTY,Beauty Accessories,2.0337,6.79
+Product 93,BEAUTY,Beauty Accessories,1.6571,8.73
+Product 94,BEAUTY,Beauty Accessories,14.5616,38.7903
+Product 95,BEAUTY,Beauty Accessories,2.4115,5.82
+Product 96,BEAUTY,Beauty Accessories,1.3759,5.82
+Product 97,BEAUTY,Beauty Accessories,0.1788,1.455
+Product 98,BEAUTY,Beauty Accessories,0.3204,0.97
+Product 99,BEAUTY,Beauty Accessories,1.6137,6.305
+Product 100,BEAUTY,Beauty Accessories,0.8568,3.88
+Product 101,BEAUTY,Beauty Accessories,1.322,5.335
+Product 102,BEAUTY,Beauty Accessories,0.4086,3.395
+Product 103,BEAUTY,Beauty Accessories,0.6278,2.1825
+Product 104,BEAUTY,Beauty Accessories,1.5,5.82
+Product 105,BEAUTY,Beauty Accessories,1.0619,3.88
+Product 106,BEAUTY,Beauty Accessories,1.7621,5.82
+Product 107,BEAUTY,Beauty Accessories,3.6365,0.0097
+Product 108,BEAUTY,Beauty Accessories,1.7223,5.82
+Product 109,BEAUTY,Beauty Accessories,2.4142,8.73
+Product 110,BEAUTY,Beauty Accessories,3.2643,14.55
+Product 111,BEAUTY,Beauty Accessories,2.2031,9.7
+Product 112,BEAUTY,Beauty Accessories,3.6814,11.64
+Product 113,BEAUTY,Beauty Accessories,1.3692,8.245
+Product 114,BEAUTY,Beauty Accessories,0.4467,4.85
+Product 115,BEAUTY,Beauty Accessories,1.4704,7.76
+Product 116,BEAUTY,Beauty Accessories,2.6311,8.7203
+Product 117,BEAUTY,Beauty Accessories,0.3515,2.91
+Product 118,BEAUTY,Beauty Accessories,1.6433,7.275
+Product 119,BEAUTY,Beauty Accessories,1.1094,6.79
+Product 120,BEAUTY,Beauty Accessories,1.3904,4.85
+Product 121,BEAUTY,Beauty Accessories,4.3986,14.5403
+Product 122,BEAUTY,Beauty Accessories,0.8411,4.85
+Product 123,BEAUTY,Beauty Accessories,2.3752,0.0097
+Product 124,BEAUTY,Beauty Accessories,1.2882,7.275
+Product 125,BEAUTY,Beauty Accessories,0.6512,3.395
+Product 126,BEAUTY,Beauty Accessories,4.6196,17.46
+Product 127,BEAUTY,Beauty Accessories,2.4206,5.82
+Product 128,BEAUTY,Beauty Accessories,1.4562,4.8403
+Product 129,BEAUTY,Beauty Accessories,1.4557,6.305
+Product 130,BEAUTY,Beauty Accessories,2.1793,6.79
+Product 131,BEAUTY,Beauty Accessories,2.076,0.0097
+Product 132,BEAUTY,Beauty Accessories,1.5275,6.79
+Product 133,BEAUTY,Beauty Accessories,2.3095,11.64
+Product 134,BEAUTY,Beauty Accessories,1.6529,6.79
+Product 135,BEAUTY,Beauty Accessories,1.637,6.305
+Product 136,BEAUTY,Beauty Accessories,3.8162,12.6003
+Product 137,BEAUTY,Beauty Accessories,3.2136,13.58
+Product 138,BEAUTY,Beauty Accessories,3.2136,13.58
+Product 139,BEAUTY,Everyday Fragrance,8.285,17.46
+Product 140,BEAUTY,Everyday Fragrance,13.8084,29.1
+Product 141,BEAUTY,Everyday Fragrance,8.285,17.46
+Product 142,BEAUTY,Everyday Fragrance,6.2766,14.5403
+Product 143,BEAUTY,Everyday Fragrance,8.285,17.46
+Product 144,BEAUTY,Everyday Fragrance,3.1333,7.2653
+Product 145,BEAUTY,Everyday Fragrance,2.0085,5.82
+Product 146,BEAUTY,Everyday Fragrance,6.4703,14.0553
+Product 147,BEAUTY,Everyday Fragrance,2.0085,5.82
+Product 148,BEAUTY,Everyday Fragrance,3.1333,7.2653
+Product 149,BEAUTY,Everyday Fragrance,4.6808,10.1753
+Product 150,BEAUTY,Everyday Fragrance,3.22,6.8773
+Product 151,BEAUTY,Everyday Fragrance,2.0085,5.82
+Product 152,BEAUTY,Everyday Fragrance,1.8699,3.8703
+Product 153,BEAUTY,Everyday Fragrance,1.87,1.94
+Product 154,BEAUTY,Everyday Fragrance,0.9629,4.2583
+Product 155,BEAUTY,Everyday Fragrance,3.3442,7.7503
+Product 156,BEAUTY,Everyday Fragrance,1.87,3.8703
+Product 157,BEAUTY,Everyday Fragrance,0.9771,4.2583
+Product 158,BEAUTY,Everyday Fragrance,7.3913,16.9653
+Product 159,BEAUTY,Everyday Fragrance,1.87,3.8703
+Product 160,BEAUTY,Everyday Fragrance,1.878,4.365
+Product 161,BEAUTY,Everyday Fragrance,1.87,3.8703
+Product 162,BEAUTY,Everyday Fragrance,5.2322,9.7
+Product 163,BEAUTY,Everyday Fragrance,2.5106,5.82
+Product 164,BEAUTY,Everyday Fragrance,0.9931,4.2583
+Product 165,BEAUTY,Everyday Fragrance,1.87,3.8703
+Product 166,BEAUTY,Everyday Fragrance,2.5106,5.82
+Product 167,BEAUTY,Everyday Fragrance,6.2766,14.5403
+Product 168,BEAUTY,Everyday Fragrance,8.3655,19.3903
+Product 169,BEAUTY,Everyday Fragrance,2.8019,5.7715
+Product 170,BEAUTY,Everyday Fragrance,1.0444,2.4153
+Product 171,BEAUTY,Everyday Fragrance,1.87,3.8703
+Product 172,BEAUTY,Everyday Fragrance,1.0444,2.425
+Product 173,BEAUTY,Everyday Fragrance,3.1333,7.2653
+Product 174,BEAUTY,Everyday Fragrance,1.7273,4.2583
+Product 175,BEAUTY,Everyday Fragrance,4.613,10.1753
+Product 176,BEAUTY,Everyday Fragrance,8.3655,19.3903
+Product 177,BEAUTY,Everyday Fragrance,4.7802,12.1153
+Product 178,BEAUTY,Everyday Fragrance,6.2765,14.5403
+Product 179,BEAUTY,Everyday Fragrance,6.9092,15.5103
+Product 180,BEAUTY,Everyday Fragrance,5.2322,9.7
+Product 181,BEAUTY,Everyday Fragrance,1.1349,2.4153
+Product 182,BEAUTY,Everyday Fragrance,1.3055,3.1913
+Product 183,BEAUTY,Everyday Fragrance,7.7629,17.46
+Product 184,BEAUTY,Everyday Fragrance,8.3654,20.37
+Product 185,BEAUTY,Everyday Fragrance,8.3655,20.3603
+Product 186,BEAUTY,Everyday Fragrance,8.3655,19.3903
+Product 187,BEAUTY,Everyday Fragrance,10.4643,24.25
+Product 188,BEAUTY,Everyday Fragrance,2.4002,5.8103
+Product 189,BEAUTY,Everyday Fragrance,0.9791,2.037
+Product 190,BEAUTY,Everyday Fragrance,8.3654,20.37
+Product 191,BEAUTY,Everyday Fragrance,8.3654,20.37
+Product 192,BEAUTY,Everyday Fragrance,10.4643,24.25
+Product 193,BEAUTY,Everyday Fragrance,3.2759,6.7803
+Product 194,BEAUTY,Everyday Fragrance,8.3655,20.3603
+Product 195,BEAUTY,Everyday Fragrance,10.0425,24.25
+Product 196,BEAUTY,Everyday Fragrance,2.8571,5.8103
+Product 197,BEAUTY,Everyday Fragrance,2.8571,5.8103
+Product 198,BEAUTY,Everyday Fragrance,5.2322,9.7
+Product 199,BEAUTY,Everyday Fragrance,2.8571,5.8103
+Product 200,BEAUTY,Everyday Fragrance,3.2759,6.7803
+Product 201,BEAUTY,Everyday Fragrance,9.1889,21.34
+Product 202,BEAUTY,Everyday Fragrance,1.6671,3.8703
+Product 203,BEAUTY,Everyday Fragrance,3.2759,6.7803
+Product 204,BEAUTY,Everyday Fragrance,2.8571,5.8103
+Product 205,BEAUTY,Everyday Fragrance,1.87,3.8703
+Product 206,BEAUTY,Everyday Fragrance,1.4662,3.8703
+Product 207,BEAUTY,Everyday Fragrance,5.2322,9.7
+Product 208,TOILETRIES,Washing & bathing,1.6035,3.104
+Product 209,TOILETRIES,Washing & bathing,0.3867,0.7275
+Product 210,TOILETRIES,Washing & bathing,1.5767,2.91
+Product 211,TOILETRIES,Washing & bathing,0.4017,0.7275
+Product 212,TOILETRIES,Washing & bathing,3.296,4.8403
+Product 213,TOILETRIES,Washing & bathing,3.296,4.8403
+Product 214,TOILETRIES,Washing & bathing,3.296,4.8403
+Product 215,TOILETRIES,Washing & bathing,3.296,4.8403
+Product 216,TOILETRIES,Washing & bathing,1.6035,3.104
+Product 217,TOILETRIES,Washing & bathing,3.296,4.8403
+Product 218,TOILETRIES,Washing & bathing,3.296,4.8403
+Product 219,TOILETRIES,Washing & bathing,2.4823,6.596
+Product 220,TOILETRIES,Washing & bathing,0.4419,0.97
+Product 221,TOILETRIES,Washing & bathing,1.9776,2.619
+Product 222,TOILETRIES,Washing & bathing,3.296,4.8403
+Product 223,TOILETRIES,Washing & bathing,1.3287,2.91
+Product 224,TOILETRIES,Washing & bathing,2.2248,3.6763
+Product 225,TOILETRIES,Washing & bathing,1.6035,3.104
+Product 226,TOILETRIES,Washing & bathing,0.8294,2.2795
+Product 227,TOILETRIES,Washing & bathing,1.9776,2.619
+Product 228,TOILETRIES,Washing & bathing,1.575,2.91
+Product 229,TOILETRIES,Washing & bathing,2.2248,3.6763
+Product 230,TOILETRIES,Washing & bathing,1.9776,2.619
+Product 231,TOILETRIES,Washing & bathing,1.3905,2.037
+Product 232,TOILETRIES,Washing & bathing,1.3905,2.425
+Product 233,TOILETRIES,Washing & bathing,2.2248,3.6763
+Product 234,TOILETRIES,Washing & bathing,2.6914,5.8103
+Product 235,TOILETRIES,Washing & bathing,1.0833,1.9303
+Product 236,TOILETRIES,Washing & bathing,2.6512,8.245
+Product 237,TOILETRIES,Washing & bathing,0.7004,1.164
+Product 238,TOILETRIES,Washing & bathing,1.4126,2.9003
+Product 239,TOILETRIES,Washing & bathing,1.3081,2.037
+Product 240,TOILETRIES,Washing & bathing,1.9884,4.7045
+Product 241,TOILETRIES,Washing & bathing,2.9224,4.85
+Product 242,TOILETRIES,Washing & bathing,3.4145,8.73
+Product 243,TOILETRIES,Washing & bathing,1.3887,2.4153
+Product 244,TOILETRIES,Washing & bathing,1.4126,2.9003
+Product 245,TOILETRIES,Washing & bathing,1.3081,2.037
+Product 246,TOILETRIES,Washing & bathing,1.5793,2.91
+Product 247,TOILETRIES,Washing & bathing,1.279,1.94
+Product 248,TOILETRIES,Washing & bathing,1.575,2.91
+Product 249,TOILETRIES,Washing & bathing,1.5767,2.91
+Product 250,TOILETRIES,Washing & bathing,1.3081,2.037
+Product 251,TOILETRIES,Washing & bathing,1.9604,2.9003
+Product 252,TOILETRIES,Washing & bathing,1.4126,2.9003
+Product 253,TOILETRIES,Washing & bathing,2.2248,3.6763
+Product 254,TOILETRIES,Washing & bathing,1.279,1.94
+Product 255,TOILETRIES,Washing & bathing,1.4126,2.9003
+Product 256,TOILETRIES,Washing & bathing,1.416,2.9003
+Product 257,TOILETRIES,Washing & bathing,1.9604,2.9003
+Product 258,TOILETRIES,Washing & bathing,2.2248,3.6763
+Product 259,TOILETRIES,Washing & bathing,1.0377,2.9003
+Product 260,TOILETRIES,Washing & bathing,3.4145,8.73
+Product 261,TOILETRIES,Washing & bathing,1.4111,3.492
+Product 262,TOILETRIES,Washing & bathing,3.296,4.8403
+Product 263,TOILETRIES,Washing & bathing,1.3905,2.425
+Product 264,TOILETRIES,Washing & bathing,1.3887,2.4153
+Product 265,TOILETRIES,Washing & bathing,1.3905,2.037
+Product 266,TOILETRIES,Washing & bathing,2.6914,6.305
+Product 267,TOILETRIES,Washing & bathing,1.3905,2.037
+Product 268,TOILETRIES,Washing & bathing,1.3887,2.4153
+Product 269,TOILETRIES,Washing & bathing,1.0833,1.9303
+Product 270,TOILETRIES,Washing & bathing,2.2248,3.6763
+Product 271,TOILETRIES,Washing & bathing,1.3905,2.037
+Product 272,TOILETRIES,Washing & bathing,1.3887,2.4153
+Product 273,TOILETRIES,Washing & bathing,1.396,4.268
+Product 274,TOILETRIES,Washing & bathing,1.3993,4.365
+Product 275,TOILETRIES,Washing & bathing,3.4145,8.73
+Product 276,TOILETRIES,Washing & bathing,1.2235,3.1913
+Product 277,TOILETRIES,Washing & bathing,1.3905,2.037
+Product 278,TOILETRIES,Washing & bathing,1.0377,2.91
+Product 279,TOILETRIES,Washing & bathing,2.2248,3.6763
+Product 280,TOILETRIES,Washing & bathing,1.575,2.91
+Product 281,TOILETRIES,Washing & bathing,2.1089,6.79
+Product 282,TOILETRIES,Washing & bathing,2.2248,3.6763
+Product 283,TOILETRIES,Washing & bathing,2.6412,4.85
+Product 284,TOILETRIES,Washing & bathing,2.6412,4.85
+Product 285,TOILETRIES,Washing & bathing,2.6412,4.85
+Product 286,TOILETRIES,Washing & bathing,1.8643,3.1913
+Product 287,TOILETRIES,Washing & bathing,1.279,1.94
+Product 288,TOILETRIES,Washing & bathing,0.8302,2.425
+Product 289,TOILETRIES,Washing & bathing,1.3905,2.037
+Product 290,TOILETRIES,Washing & bathing,2.9224,4.85
+Product 291,TOILETRIES,Washing & bathing,1.3287,2.425
+Product 292,TOILETRIES,Washing & bathing,1.3905,2.037
+Product 293,TOILETRIES,Washing & bathing,2.0497,3.1913
+Product 294,TOILETRIES,Washing & bathing,1.5793,2.91
+Product 295,TOILETRIES,Washing & bathing,1.8643,3.1913
+Product 296,TOILETRIES,Washing & bathing,2.6914,5.8103
+Product 297,TOILETRIES,Washing & bathing,1.8643,3.1913
+Product 298,TOILETRIES,Washing & bathing,1.5959,2.91
+Product 299,TOILETRIES,Washing & bathing,1.2978,2.2213
+Product 300,TOILETRIES,Washing & bathing,1.0833,1.9303
+Product 301,TOILETRIES,Washing & bathing,1.2235,3.492
+Product 302,TOILETRIES,Washing & bathing,2.0497,3.1913
+Product 303,TOILETRIES,Washing & bathing,1.3887,2.4153
+Product 304,TOILETRIES,Washing & bathing,1.396,3.9285
+Product 305,TOILETRIES,Washing & bathing,1.2492,0.97
+Product 306,TOILETRIES,Washing & bathing,1.4126,2.9003
+Product 307,TOILETRIES,Washing & bathing,2.0497,3.1913
+Product 308,TOILETRIES,Washing & bathing,1.8643,3.1913
+Product 309,TOILETRIES,Washing & bathing,1.3905,2.037
+Product 310,TOILETRIES,Washing & bathing,1.2978,2.2213
+Product 311,TOILETRIES,Washing & bathing,2.4605,5.8103
+Product 312,TOILETRIES,Washing & bathing,1.6995,1.94
+Product 313,TOILETRIES,Washing & bathing,1.8849,2.91
+Product 314,TOILETRIES,Washing & bathing,1.3081,2.037
+Product 315,TOILETRIES,Washing & bathing,1.5759,2.91
+Product 316,TOILETRIES,Washing & bathing,1.3887,2.4153
+Product 317,TOILETRIES,Washing & bathing,1.3287,2.91
+Product 318,TOILETRIES,Washing & bathing,2.0497,3.1913
+Product 319,TOILETRIES,Washing & bathing,1.6738,2.91
+Product 320,TOILETRIES,Washing & bathing,2.0497,3.1913
+Product 321,TOILETRIES,Washing & bathing,1.6995,2.9003
+Product 322,TOILETRIES,Washing & bathing,1.8849,2.91
+Product 323,TOILETRIES,Washing & bathing,2.0497,3.1913
+Product 324,TOILETRIES,Washing & bathing,1.279,1.94
+Product 325,TOILETRIES,Washing & bathing,1.2978,2.2213
+Product 326,TOILETRIES,Washing & bathing,0.7004,1.164
+Product 327,TOILETRIES,Washing & bathing,1.0815,1.9303
+Product 328,TOILETRIES,Washing & bathing,1.3081,2.037
+Product 329,TOILETRIES,Washing & bathing,1.8849,2.91
+Product 330,TOILETRIES,Washing & bathing,0.6798,0.97
+Product 331,TOILETRIES,Washing & bathing,1.6995,1.94
+Product 332,TOILETRIES,Washing & bathing,0.5302,0.97
+Product 333,TOILETRIES,Washing & bathing,1.2978,2.2213
+Product 334,TOILETRIES,Washing & bathing,0.7931,1.455
+Product 335,TOILETRIES,Washing & bathing,1.8643,3.1913
+Product 336,TOILETRIES,Washing & bathing,1.9182,5.1895
+Product 337,TOILETRIES,Washing & bathing,2.6914,5.8103
+Product 338,TOILETRIES,Washing & bathing,2.2248,3.395
+Product 339,TOILETRIES,Washing & bathing,1.3081,2.037
+Product 340,TOILETRIES,Washing & bathing,1.2492,0.97
+Product 341,TOILETRIES,Washing & bathing,1.6738,2.91
+Product 342,TOILETRIES,Washing & bathing,0.4419,0.97
+Product 343,TOILETRIES,Washing & bathing,1.6995,2.9003
+Product 344,TOILETRIES,Washing & bathing,1.0833,1.9303
+Product 345,TOILETRIES,Washing & bathing,1.3887,2.4153
+Product 346,TOILETRIES,Washing & bathing,1.8643,3.1913
+Product 347,TOILETRIES,Washing & bathing,1.8643,3.1913
+Product 348,TOILETRIES,Washing & bathing,1.2491,0.97
+Product 349,TOILETRIES,Washing & bathing,0.4921,1.455
+Product 350,TOILETRIES,Washing & bathing,1.9182,5.1895
+Product 351,TOILETRIES,Washing & bathing,0.7931,1.455
+Product 352,TOILETRIES,Washing & bathing,1.8643,3.1913
+Product 353,TOILETRIES,Washing & bathing,1.6738,2.91
+Product 354,TOILETRIES,Washing & bathing,1.5959,2.91
+Product 355,TOILETRIES,Washing & bathing,1.6009,2.91
+Product 356,TOILETRIES,Washing & bathing,1.3081,2.037
+Product 357,TOILETRIES,Washing & bathing,1.6738,2.91
+Product 358,TOILETRIES,Washing & bathing,1.6995,2.9003
+Product 359,TOILETRIES,Washing & bathing,1.5759,2.91
+Product 360,TOILETRIES,Washing & bathing,2.0497,3.1913
+Product 361,TOILETRIES,Washing & bathing,1.3527,2.425
+Product 362,TOILETRIES,Washing & bathing,2.0497,3.1913
+Product 363,TOILETRIES,Washing & bathing,0.6798,0.97
+Product 364,TOILETRIES,Washing & bathing,1.9884,4.7045
+Product 365,TOILETRIES,Washing & bathing,1.6738,2.91
+Product 366,TOILETRIES,Washing & bathing,1.6738,2.91
+Product 367,TOILETRIES,Washing & bathing,1.6009,2.91
+Product 368,TOILETRIES,Washing & bathing,2.0085,3.3853
+Product 369,TOILETRIES,Washing & bathing,1.6995,2.9003
+Product 370,TOILETRIES,Washing & bathing,1.9182,5.1895
+Product 371,TOILETRIES,Washing & bathing,1.6995,2.9003
+Product 372,TOILETRIES,Washing & bathing,1.2978,2.2213
+Product 373,TOILETRIES,Washing & bathing,1.6995,2.9003
+Product 374,TOILETRIES,Washing & bathing,2.0085,3.3853
+Product 375,TOILETRIES,Washing & bathing,1.4763,2.4153
+Product 376,TOILETRIES,Washing & bathing,2.0085,3.3853
+Product 377,TOILETRIES,Washing & bathing,2.0085,3.3853
+Product 378,TOILETRIES,Washing & bathing,1.3081,2.037
+Product 379,TOILETRIES,Washing & bathing,1.4763,2.4153
+Product 380,TOILETRIES,Washing & bathing,1.2978,2.2213
+Product 381,TOILETRIES,Washing & bathing,1.4763,2.4153
+Product 382,TOILETRIES,Washing & bathing,1.4763,2.4153
+Product 383,TOILETRIES,Washing & bathing,1.6995,2.9003
+Product 384,TOILETRIES,Washing & bathing,1.4763,2.4153
+Product 385,TOILETRIES,Washing & bathing,1.2978,2.2213
+Product 386,TOILETRIES,Washing & bathing,1.3905,2.425
+Product 387,TOILETRIES,Washing & bathing,4.4633,7.76
+Product 388,TOILETRIES,Washing & bathing,5.5792,9.7
+Product 389,TOILETRIES,Washing & bathing,4.4633,7.76
+Product 390,TOILETRIES,Washing & bathing,2.2317,3.88
+Product 391,TOILETRIES,Washing & bathing,2.4605,5.8103
+Product 392,TOILETRIES,Washing & bathing,2.4605,5.8103
+Product 393,TOILETRIES,Washing & bathing,1.5566,3.6763
+Product 394,TOILETRIES,Washing & bathing,1.637,3.8703
+Product 395,TOILETRIES,Washing & bathing,1.4763,2.4153
+Product 396,TOILETRIES,Washing & bathing,1.4763,2.4153
+Product 397,TOILETRIES,Washing & bathing,1.4763,2.4153
+Product 398,HEALTHCARE,Summer medicines,1.8277,4.1613
+Product 399,HEALTHCARE,Summer medicines,2.0206,3.9673
+Product 400,HEALTHCARE,Summer medicines,2.2467,0.0097
+Product 401,HEALTHCARE,Winter Medicines,15.1925,31.2146
+Product 402,HEALTHCARE,Winter Medicines,1.5553,1.9303
+Product 403,HEALTHCARE,Summer medicines,3.6717,6.8482
+Product 404,HEALTHCARE,Summer medicines,0.7733,2.4735
+Product 405,HEALTHCARE,Summer medicines,3.0157,0.0097
+Product 406,HEALTHCARE,Summer medicines,4.0863,0.0097
+Product 407,HEALTHCARE,Summer medicines,4.0863,8.8755
+Product 408,HEALTHCARE,Summer medicines,1.7575,4.3553
+Product 409,HEALTHCARE,Summer medicines,3.0157,0.0097
+Product 410,HEALTHCARE,Summer medicines,2.8222,6.79
+Product 411,HEALTHCARE,Summer medicines,2.6411,5.82
+Product 412,HEALTHCARE,Summer medicines,1.5141,3.395
+Product 413,HEALTHCARE,Summer medicines,1.648,4.0643
+Product 414,HEALTHCARE,Summer medicines,1.2875,2.0855
+Product 415,HEALTHCARE,Summer medicines,2.3587,5.3253
+Product 416,HEALTHCARE,Summer medicines,1.1021,2.91
+Product 417,HEALTHCARE,Summer medicines,1.2276,5.3253
+Product 418,HEALTHCARE,Summer medicines,1.9879,4.0643
+Product 419,HEALTHCARE,Summer medicines,1.046,4.8403
+Product 420,HEALTHCARE,Summer medicines,1.6789,3.8703
+Product 421,HEALTHCARE,Summer medicines,5.2324,9.9813
+Product 422,HEALTHCARE,Summer medicines,1.6274,4.0643
+Product 423,HEALTHCARE,Summer medicines,1.8025,3.395
+Product 424,HEALTHCARE,Summer medicines,4.0994,8.5263
+Product 425,HEALTHCARE,Summer medicines,1.5347,4.268
+Product 426,HEALTHCARE,Summer medicines,3.1133,7.275
+Product 427,HEALTHCARE,Summer medicines,5.6439,15.9953
+Product 428,HEALTHCARE,Summer medicines,1.5064,4.8403
+Product 429,HEALTHCARE,Summer medicines,4.4393,10.185
+Product 430,HEALTHCARE,Summer medicines,1.7407,7.7503
+Product 431,HEALTHCARE,Summer medicines,1.3357,4.8403
+Product 432,HEALTHCARE,Summer medicines,1.5656,3.395
+Product 433,HEALTHCARE,Summer medicines,2.2042,5.8103
+Product 434,HEALTHCARE,Summer medicines,3.5451,11.446
+Product 435,HEALTHCARE,Summer medicines,2.6162,6.305
+Product 436,HEALTHCARE,Summer medicines,6.1703,17.945
+Product 437,HEALTHCARE,Summer medicines,5.9753,17.945
+Product 438,HEALTHCARE,Summer medicines,1.6169,4.1613
+Product 439,HEALTHCARE,Summer medicines,1.6698,3.8703
+Product 440,HEALTHCARE,Summer medicines,5.0213,9.7
+Product 441,HEALTHCARE,Summer medicines,2.2515,8.73
+Product 442,HEALTHCARE,Summer medicines,1.5656,3.395
+Product 443,HEALTHCARE,Summer medicines,2.6677,7.275
+Product 444,HEALTHCARE,Summer medicines,1.5656,3.395
+Product 445,HEALTHCARE,Summer medicines,0.466,1.9303
+Product 446,HEALTHCARE,Summer medicines,0.8481,2.5705
+Product 447,HEALTHCARE,Summer medicines,2.5235,6.0625
+Product 448,HEALTHCARE,Summer medicines,2.5956,6.305
+Product 449,HEALTHCARE,Summer medicines,3.2235,7.275
+Product 450,HEALTHCARE,Summer medicines,4.0099,11.64
+Product 451,HEALTHCARE,Summer medicines,1.9261,4.85
+Product 452,HEALTHCARE,Summer medicines,2.7417,8.7203
+Product 453,HEALTHCARE,Summer medicines,1.6681,3.8703
+Product 454,HEALTHCARE,Summer medicines,1.545,3.88
+Product 455,HEALTHCARE,Summer medicines,3.8162,9.7
+Product 456,HEALTHCARE,Summer medicines,2.9626,7.7503
+Product 457,HEALTHCARE,Summer medicines,0.7733,2.3183
+Product 458,HEALTHCARE,Summer medicines,2.7386,9.215
+Product 459,HEALTHCARE,Summer medicines,0.8338,2.5705
+Product 460,HEALTHCARE,Summer medicines,1.6698,3.8703
+Product 461,HEALTHCARE,Summer medicines,1.8025,3.4823
+Product 462,HEALTHCARE,Summer medicines,5.0985,15.035
+Product 463,HEALTHCARE,Summer medicines,7.6624,18.9053
+Product 464,HEALTHCARE,Summer medicines,3.7559,9.6903
+Product 465,HEALTHCARE,Summer medicines,1.406,4.3553
+Product 466,HEALTHCARE,Summer medicines,1.545,3.88
+Product 467,HEALTHCARE,Summer medicines,4.017,10.185
+Product 468,HEALTHCARE,Summer medicines,1.5965,3.395
+Product 469,HEALTHCARE,Summer medicines,2.8056,5.8588
+Product 470,HEALTHCARE,Summer medicines,1.8025,3.201
+Product 471,HEALTHCARE,Summer medicines,5.2824,14.065
+Product 472,HEALTHCARE,Summer medicines,1.4317,3.8703
+Product 473,HEALTHCARE,Summer medicines,6.5276,19.3903
+Product 474,HEALTHCARE,Summer medicines,2.4749,5.82
+Product 475,HEALTHCARE,Summer medicines,0.7177,3.3853
+Product 476,HEALTHCARE,Summer medicines,1.1021,2.9003
+Product 477,HEALTHCARE,Summer medicines,1.0918,2.6093
+Product 478,HEALTHCARE,Summer medicines,2.06,4.85
+Product 479,HEALTHCARE,Summer medicines,1.5867,3.3853
+Product 480,HEALTHCARE,Summer medicines,3.2857,7.7503
+Product 481,HEALTHCARE,Summer medicines,0.9816,3.6763
+Product 482,HEALTHCARE,Summer medicines,1.4317,3.8703
+Product 483,HEALTHCARE,Summer medicines,1.1124,2.4153
+Product 484,HEALTHCARE,Summer medicines,0.7197,2.2213
+Product 485,HEALTHCARE,Summer medicines,2.2301,3.8703
+Product 486,HEALTHCARE,Summer medicines,5.6084,11.6303
+Product 487,HEALTHCARE,Summer medicines,2.3801,4.656
+Product 488,HEALTHCARE,Summer medicines,3.9166,9.7
+Product 489,HEALTHCARE,Summer medicines,0.927,2.6093
+Product 490,HEALTHCARE,Summer medicines,2.0085,3.8703
+Product 491,HEALTHCARE,Summer medicines,2.7295,6.79
+Product 492,HEALTHCARE,Summer medicines,2.8056,5.8588
+Product 493,HEALTHCARE,Summer medicines,0.944,2.7063
+Product 494,HEALTHCARE,Summer medicines,0.6394,3.8703
+Product 495,HEALTHCARE,Summer medicines,0.9134,2.4153
+Product 496,HEALTHCARE,Summer medicines,1.2319,3.6763
+Product 497,HEALTHCARE,Summer medicines,1.5554,3.4823
+Product 498,HEALTHCARE,Summer medicines,1.9383,4.4523
+Product 499,HEALTHCARE,Summer medicines,5.2824,15.5103
+Product 500,HEALTHCARE,Summer medicines,4.5593,11.6303
+Product 501,HEALTHCARE,Summer medicines,1.4361,3.8703
+Product 502,HEALTHCARE,Summer medicines,4.4038,12.125
+Product 503,HEALTHCARE,Summer medicines,4.5392,13.095
+Product 504,HEALTHCARE,Summer medicines,2.0851,4.85
+Product 505,HEALTHCARE,Summer medicines,2.5391,11.6303
+Product 506,HEALTHCARE,Summer medicines,3.1986,8.73
+Product 507,HEALTHCARE,Summer medicines,3.9166,9.6903
+Product 508,HEALTHCARE,Summer medicines,2.3587,5.3253
+Product 509,HEALTHCARE,Summer medicines,0.9691,2.425
+Product 510,HEALTHCARE,Summer medicines,5.9953,17.4503
+Product 511,HEALTHCARE,Summer medicines,5.0475,10.6603
+Product 512,HEALTHCARE,Summer medicines,5.202,13.5703
+Product 513,HEALTHCARE,Winter Medicines,1.7675,3.589
+Product 514,HEALTHCARE,Winter Medicines,10.1128,29.0903
+Product 515,HEALTHCARE,Winter Medicines,1.6771,4.365
+Product 516,HEALTHCARE,Winter Medicines,14.2403,38.7903
+Product 517,HEALTHCARE,Winter Medicines,23.8194,53.3403
+Product 518,HEALTHCARE,Winter Medicines,1.2748,3.1913
+Product 519,HEALTHCARE,Winter Medicines,4.2682,17.4503
+Product 520,HEALTHCARE,Winter Medicines,0.3437,2.1243
+Product 521,HEALTHCARE,Winter Medicines,0.6554,9.6903
+Product 522,HEALTHCARE,Winter Medicines,1.8785,11.6303
+Product 523,HEALTHCARE,Winter Medicines,3.1543,18.4203
+Product 524,HEALTHCARE,Winter Medicines,0.4812,3.3853
+Product 525,HEALTHCARE,Winter Medicines,15.9756,35.89
+Product 526,HEALTHCARE,Winter Medicines,6.357,19.4
+Product 527,HEALTHCARE,Winter Medicines,10.4944,32.01
+Product 528,HEALTHCARE,Winter Medicines,3.1543,18.4203
+Product 529,HEALTHCARE,Winter Medicines,2.6111,6.79
+Product 530,HEALTHCARE,Winter Medicines,2.3355,13.5703
+Product 531,HEALTHCARE,Winter Medicines,0.7505,7.7503
+Product 532,HEALTHCARE,Winter Medicines,1.5165,2.1243
+Product 533,HEALTHCARE,Winter Medicines,1.0531,17.4503
+Product 534,HEALTHCARE,Winter Medicines,2.3355,13.5703
+Product 535,HEALTHCARE,Winter Medicines,1.6995,5.335
+Product 536,HEALTHCARE,Winter Medicines,4.4388,13.58
+Product 537,HEALTHCARE,Winter Medicines,3.0672,8.7203
+Product 538,HEALTHCARE,Winter Medicines,0.3207,2.1243
+Product 539,HEALTHCARE,Winter Medicines,6.0842,19.3903
+Product 540,HEALTHCARE,Winter Medicines,1.8966,17.4503
+Product 541,HEALTHCARE,Winter Medicines,0.1378,3.1913
+Product 542,HEALTHCARE,Winter Medicines,0.3548,2.6093
+Product 543,HEALTHCARE,Winter Medicines,0.8105,7.7503
+Product 544,HEALTHCARE,Winter Medicines,1.3457,2.7645
+Product 545,HEALTHCARE,Winter Medicines,0.6112,4.8403
+Product 546,HEALTHCARE,Winter Medicines,0.1913,3.8703
+Product 547,HEALTHCARE,Winter Medicines,1.8452,17.4503
+Product 548,HEALTHCARE,Winter Medicines,0.466,3.6763
+Product 549,HEALTHCARE,Winter Medicines,1.7357,13.5703
+Product 550,HEALTHCARE,Winter Medicines,0.6819,7.7503
+Product 551,HEALTHCARE,Winter Medicines,0.399,6.0043
+Product 552,HEALTHCARE,Winter Medicines,14.642,32.01
+Product 553,HEALTHCARE,Winter Medicines,2.0387,3.88
+Product 554,HEALTHCARE,Winter Medicines,0.2003,3.8703
+Product 555,HEALTHCARE,Winter Medicines,1.1536,2.813
+Product 556,HEALTHCARE,Winter Medicines,0.7027,4.8403
+Product 557,HEALTHCARE,Winter Medicines,0.6721,4.6463
+Product 558,HEALTHCARE,Winter Medicines,5.0915,15.52
+Product 559,HEALTHCARE,Winter Medicines,0.2491,3.5793
+Product 560,HEALTHCARE,Winter Medicines,2.0098,13.5703
+Product 561,HEALTHCARE,Winter Medicines,0.7691,3.1913
+Product 562,HEALTHCARE,Winter Medicines,1.0815,2.037
+Product 563,HEALTHCARE,Winter Medicines,0.1906,2.8033
+Product 564,HEALTHCARE,Winter Medicines,0.8228,4.8403
+Product 565,HEALTHCARE,Winter Medicines,5.7281,16.49
+Product 566,HEALTHCARE,Winter Medicines,6.9997,21.34
+Product 567,HEALTHCARE,Winter Medicines,0.2368,1.9303
+Product 568,HEALTHCARE,Winter Medicines,2.3355,13.5703
+Product 569,HEALTHCARE,Winter Medicines,0.7339,4.5493
+Product 570,HEALTHCARE,Winter Medicines,0.0494,1.7363
+Product 571,HEALTHCARE,Winter Medicines,0.4201,3.3853
+Product 572,HEALTHCARE,Winter Medicines,0.3285,2.9003
+Product 573,HEALTHCARE,Winter Medicines,0.4671,2.4153
+Product 574,HEALTHCARE,Winter Medicines,6.8638,15.5103
+Product 575,HEALTHCARE,Winter Medicines,0.6599,7.7503
+Product 576,HEALTHCARE,Winter Medicines,1.2231,5.335
+Product 577,HEALTHCARE,Winter Medicines,0.3678,2.7063
+Product 578,HEALTHCARE,Winter Medicines,0.443,3.3853
+Product 579,HEALTHCARE,Winter Medicines,1.0403,2.6675
+Product 580,HEALTHCARE,Winter Medicines,0.3743,3.3853
+Product 581,HEALTHCARE,Winter Medicines,0.2597,2.2213
+Product 582,HEALTHCARE,Winter Medicines,2.0213,13.5703
+Product 583,HEALTHCARE,Winter Medicines,0.3361,2.5123
+Product 584,HEALTHCARE,Winter Medicines,1.0609,2.4735
+Product 585,HEALTHCARE,Winter Medicines,0.3437,3.3853
+Product 586,HEALTHCARE,Winter Medicines,0.3933,4.5493
+Product 587,HEALTHCARE,Winter Medicines,0.8034,3.5793
+Product 588,HEALTHCARE,Winter Medicines,0.3437,3.0943
+Product 589,HEALTHCARE,Winter Medicines,0.8016,3.8703
+Product 590,HEALTHCARE,Winter Medicines,1.0372,6.7803
+Product 591,HEALTHCARE,Winter Medicines,0.3662,3.8703
+Product 592,HEALTHCARE,Winter Medicines,7.793,24.25
+Product 593,HEALTHCARE,Winter Medicines,1.1639,2.425
+Product 594,HEALTHCARE,Winter Medicines,1.754,7.7503
+Product 595,HEALTHCARE,Winter Medicines,0.0867,1.4453
+Product 596,HEALTHCARE,Winter Medicines,0.3361,2.5123
+Product 597,HEALTHCARE,Winter Medicines,0.6988,2.5123
+Product 598,HEALTHCARE,Winter Medicines,0.8611,6.9743
+Product 599,HEALTHCARE,Winter Medicines,6.357,19.4
+Product 600,HEALTHCARE,Winter Medicines,0.5652,3.3853
+Product 601,HEALTHCARE,Winter Medicines,2.4303,14.5403
+Product 602,HEALTHCARE,Winter Medicines,1.6771,4.074
+Product 603,HEALTHCARE,Winter Medicines,2.1592,8.7203
+Product 604,HEALTHCARE,Winter Medicines,0.3414,1.358
+Product 605,HEALTHCARE,Winter Medicines,0.2159,1.9303
+Product 606,HEALTHCARE,Winter Medicines,0.5126,4.8403
+Product 607,HEALTHCARE,Winter Medicines,0.3819,3.8703
+Product 608,HEALTHCARE,Winter Medicines,2.515,6.7803
+Product 609,HEALTHCARE,Winter Medicines,0.2674,1.9303
+Product 610,HEALTHCARE,Winter Medicines,1.3905,2.6675
+Product 611,HEALTHCARE,Winter Medicines,0.1196,2.4153
+Product 612,HEALTHCARE,Winter Medicines,0.9279,3.8703
+Product 613,HEALTHCARE,Winter Medicines,1.0043,5.5193
+Product 614,HEALTHCARE,Winter Medicines,6.0255,18.43
+Product 615,HEALTHCARE,Winter Medicines,0.2327,2.9003
+Product 616,HEALTHCARE,Winter Medicines,1.0506,2.4735
+Product 617,HEALTHCARE,Winter Medicines,10.8158,32.98
+Product 618,HEALTHCARE,Winter Medicines,8.9305,24.25
+Product 619,HEALTHCARE,Winter Medicines,0.6991,7.7503
+Product 620,HEALTHCARE,Winter Medicines,10.8158,32.98
+Product 621,HEALTHCARE,Winter Medicines,0.6695,1.746
+Product 622,HEALTHCARE,Winter Medicines,6.9996,21.34
+Product 623,HEALTHCARE,Winter Medicines,6.1864,16.005
+Product 624,HEALTHCARE,Winter Medicines,1.7386,13.5703
+Product 625,HEALTHCARE,Winter Medicines,1.3905,2.6675
+Product 626,HEALTHCARE,Winter Medicines,7.793,24.25
+Product 627,HEALTHCARE,Winter Medicines,0.6729,1.9303
+Product 628,HEALTHCARE,Winter Medicines,0.3816,2.9003
+Product 629,HEALTHCARE,Winter Medicines,4.4388,13.58
+Product 630,HEALTHCARE,Winter Medicines,0.4319,2.6093
+Product 631,HEALTHCARE,Winter Medicines,1.2669,2.91
+Product 632,HEALTHCARE,Winter Medicines,0.2292,1.4453
+Product 633,HEALTHCARE,Winter Medicines,1.0645,5.335
+Product 634,HEALTHCARE,Winter Medicines,2.5408,9.7
+Product 635,HEALTHCARE,Winter Medicines,3.2176,11.6303
+Product 636,HEALTHCARE,Winter Medicines,6.9896,21.34
+Product 637,HEALTHCARE,Winter Medicines,0.3819,4.3553
+Product 638,HEALTHCARE,Winter Medicines,9.9859,26.675
+Product 639,HEALTHCARE,Winter Medicines,2.6713,8.245
+Product 640,HEALTHCARE,Winter Medicines,0.1468,2.7063
+Product 641,HEALTHCARE,Winter Medicines,2.7918,8.245
+Product 642,HEALTHCARE,Winter Medicines,0.1529,1.4453
+Product 643,HEALTHCARE,Winter Medicines,7.793,24.25
+Product 644,HEALTHCARE,Winter Medicines,0.1451,1.4453
+Product 645,HEALTHCARE,Winter Medicines,0.8537,3.5793
+Product 646,HEALTHCARE,Winter Medicines,0.5222,1.649
+Product 647,HEALTHCARE,Winter Medicines,0.3513,4.8403
+Product 648,HEALTHCARE,Winter Medicines,0.2138,2.1243
+Product 649,HEALTHCARE,Winter Medicines,1.1536,2.813
+Product 650,HEALTHCARE,Winter Medicines,0.1451,1.4453
+Product 651,HEALTHCARE,Winter Medicines,0.4208,3.201
+Product 652,HEALTHCARE,Winter Medicines,1.0243,2.9003
+Product 653,HEALTHCARE,Winter Medicines,0.5773,4.5493
+Product 654,HEALTHCARE,Winter Medicines,0.0564,1.6393
+Product 655,HEALTHCARE,Winter Medicines,1.888,14.5403
+Product 656,HEALTHCARE,Winter Medicines,6.9896,21.34
+Product 657,HEALTHCARE,Winter Medicines,3.4248,10.67
+Product 658,HEALTHCARE,Winter Medicines,0.8961,3.104
+Product 659,HEALTHCARE,Winter Medicines,0.252,2.4153
+Product 660,HEALTHCARE,Winter Medicines,1.648,4.947
+Product 661,HEALTHCARE,Winter Medicines,0.8436,2.522
+Product 662,HEALTHCARE,Winter Medicines,6.357,19.4
+Product 663,HEALTHCARE,Winter Medicines,4.7702,16.49
+Product 664,HEALTHCARE,Winter Medicines,0.1451,0.9603
+Product 665,HEALTHCARE,Winter Medicines,2.9827,7.954
+Product 666,HEALTHCARE,Winter Medicines,5.4029,16.49
+Product 667,HEALTHCARE,Winter Medicines,0.2446,2.6093
+Product 668,HEALTHCARE,Winter Medicines,8.9305,24.25
+Product 669,HEALTHCARE,Winter Medicines,1.6274,3.395
+Product 670,HEALTHCARE,Winter Medicines,1.1253,5.335
+Product 671,HEALTHCARE,Winter Medicines,0.8317,4.5493
+Product 672,HEALTHCARE,Winter Medicines,0.8436,2.522
+Product 673,HEALTHCARE,Winter Medicines,1.03,2.5705
+Product 674,HEALTHCARE,Winter Medicines,3.2638,0.0097
+Product 675,HEALTHCARE,Winter Medicines,0.8807,4.5493
+Product 676,HEALTHCARE,Winter Medicines,0.3284,2.9003
+Product 677,HEALTHCARE,Winter Medicines,2.5408,7.7503
+Product 678,HEALTHCARE,Winter Medicines,3.4196,14.55
+Product 679,HEALTHCARE,Winter Medicines,3.666,9.6515
+Product 680,HEALTHCARE,Winter Medicines,0.3502,1.3483
+Product 681,TOILETRIES,Everyday regime,0.7295,4.85
+Product 682,TOILETRIES,Everyday regime,1.4161,5.82
+Product 683,TOILETRIES,Everyday regime,0.8428,4.85
+Product 684,TOILETRIES,Everyday regime,1.4622,3.3853
+Product 685,TOILETRIES,Everyday regime,2.3175,5.8103
+Product 686,TOILETRIES,Everyday regime,0.5553,5.82
+Product 687,TOILETRIES,Everyday regime,0.8742,4.85
+Product 688,TOILETRIES,Everyday regime,1.5244,2.9003
+Product 689,TOILETRIES,Everyday regime,6.1285,13.5703
+Product 690,TOILETRIES,Everyday regime,1.5204,6.79
+Product 691,TOILETRIES,Everyday regime,12.7038,22.3003
+Product 692,TOILETRIES,Everyday regime,4.5139,9.6903
+Product 693,TOILETRIES,Everyday regime,1.2981,6.79
+Product 694,TOILETRIES,Everyday regime,4.6575,9.6903
+Product 695,TOILETRIES,Everyday regime,2.4154,5.6163
+Product 696,TOILETRIES,Everyday regime,2.1406,4.7918
+Product 697,TOILETRIES,Everyday regime,4.2779,9.6903
+Product 698,TOILETRIES,Everyday regime,6.4375,15.2775
+Product 699,TOILETRIES,Everyday regime,2.8171,5.3253
+Product 700,TOILETRIES,Everyday regime,6.4375,15.2775
+Product 701,TOILETRIES,Everyday regime,6.1285,13.5703
+Product 702,TOILETRIES,Everyday regime,1.933,3.1913
+Product 703,TOILETRIES,Everyday regime,2.5047,4.0643
+Product 704,TOILETRIES,Everyday regime,2.0016,3.3853
+Product 705,TOILETRIES,Everyday regime,1.7698,3.8703
+Product 706,TOILETRIES,Everyday regime,2.0497,3.3853
+Product 707,TOILETRIES,Everyday regime,2.8943,5.8103
+Product 708,TOILETRIES,Everyday regime,2.0067,3.8994
+Product 709,TOILETRIES,Everyday regime,3.4111,6.3923
+Product 710,TOILETRIES,Everyday regime,5.0573,11.6303
+Product 711,TOILETRIES,Everyday regime,2.0085,3.8703
+Product 712,TOILETRIES,Everyday regime,2.0085,3.977
+Product 713,TOILETRIES,Everyday regime,2.0479,3.686
+Product 714,TOILETRIES,Everyday regime,2.5905,4.8403
+Product 715,TOILETRIES,Everyday regime,0.8061,3.88
+Product 716,TOILETRIES,Everyday regime,2.369,4.8403
+Product 717,TOILETRIES,Everyday regime,1.7904,4.0643
+Product 718,TOILETRIES,Everyday regime,5.0573,10.6603
+Product 719,TOILETRIES,Everyday regime,3.6205,6.7803
+Product 720,TOILETRIES,Everyday regime,2.5217,4.1613
+Product 721,TOILETRIES,Everyday regime,2.0085,3.9673
+Product 722,TOILETRIES,Everyday regime,5.0573,10.6603
+Product 723,TOILETRIES,Everyday regime,4.6575,9.6903
+Product 724,TOILETRIES,Everyday regime,4.6575,9.6903
+Product 725,TOILETRIES,Everyday regime,4.6575,9.6903
+Product 726,TOILETRIES,Everyday regime,4.6575,9.6903
+Product 727,TOILETRIES,Everyday regime,5.1807,9.6903
+Product 728,TOILETRIES,Everyday regime,1.9758,3.686
+Product 729,TOILETRIES,Everyday regime,2.1767,4.1613
+Product 730,TOILETRIES,Everyday regime,1.1227,3.88
+Product 731,TOILETRIES,Everyday regime,6.0527,12.6003
+Product 732,TOILETRIES,Everyday regime,4.6575,9.6903
+Product 733,TOILETRIES,Everyday regime,3.252,6.7803
+Product 734,TOILETRIES,Everyday regime,0.2468,0.97
+Product 735,TOILETRIES,Everyday regime,1.9416,3.3853
+Product 736,TOILETRIES,Everyday regime,1.7716,4.2583
+Product 737,TOILETRIES,Everyday regime,0.7867,3.88
+Product 738,TOILETRIES,Everyday regime,2.7904,5.8103
+Product 739,TOILETRIES,Everyday regime,6.4375,15.2775
+Product 740,TOILETRIES,Everyday regime,2.9767,6.3923
+Product 741,TOILETRIES,Everyday regime,1.3952,2.9003
+Product 742,TOILETRIES,Everyday regime,3.6205,6.7803
+Product 743,TOILETRIES,Everyday regime,1.9982,4.3553
+Product 744,TOILETRIES,Everyday regime,2.0137,3.686
+Product 745,TOILETRIES,Everyday regime,1.648,3.0555
+Product 746,TOILETRIES,Everyday regime,2.7918,9.6903
+Product 747,TOILETRIES,Everyday regime,0.3959,3.88
+Product 748,TOILETRIES,Everyday regime,3.6205,6.7803
+Product 749,TOILETRIES,Everyday regime,1.7904,4.0643
+Product 750,TOILETRIES,Everyday regime,1.8867,4.0643
+Product 751,TOILETRIES,Everyday regime,2.8943,5.8103
+Product 752,TOILETRIES,Everyday regime,1.2372,3.88
+Product 753,TOILETRIES,Everyday regime,1.7904,5.4805
+Product 754,TOILETRIES,Everyday regime,5.2221,11.6303
+Product 755,TOILETRIES,Everyday regime,1.3952,2.9003
+Product 756,TOILETRIES,Everyday regime,1.3952,2.9003
+Product 757,TOILETRIES,Everyday regime,1.648,3.0555
+Product 758,TOILETRIES,Everyday regime,1.6274,3.0943
+Product 759,TOILETRIES,Everyday regime,1.6311,3.3853
+Product 760,TOILETRIES,Everyday regime,1.0011,3.88
+Product 761,TOILETRIES,Everyday regime,8.2851,14.5403
+Product 762,TOILETRIES,Everyday regime,1.648,3.0555
+Product 763,TOILETRIES,Everyday regime,5.5134,9.6903
+Product 764,TOILETRIES,Everyday regime,1.8569,3.8703
+Product 765,TOILETRIES,Everyday regime,1.2903,6.7803
+Product 766,TOILETRIES,Everyday regime,3.9895,6.7803
+Product 767,TOILETRIES,Everyday regime,1.6274,3.0943
+Product 768,TOILETRIES,Everyday regime,3.252,6.7803
+Product 769,TOILETRIES,Everyday regime,3.6205,6.7803
+Product 770,TOILETRIES,Everyday regime,2.9827,9.6903
+Product 771,TOILETRIES,Everyday regime,6.0527,12.6003
+Product 772,TOILETRIES,Everyday regime,4.6575,9.6903
+Product 773,TOILETRIES,Everyday regime,0.4948,2.3183
+Product 774,TOILETRIES,Everyday regime,1.648,3.0555
+Product 775,TOILETRIES,Everyday regime,1.878,4.8403
+Product 776,TOILETRIES,Everyday regime,2.5047,4.2583
+Product 777,TOILETRIES,Everyday regime,1.4461,0.0097
+Product 778,TOILETRIES,Everyday regime,1.1448,3.8703
+Product 779,TOILETRIES,Everyday regime,2.2145,4.8403
+Product 780,TOILETRIES,Everyday regime,2.0085,3.977
+Product 781,TOILETRIES,Everyday regime,2.7617,4.8403
+Product 782,TOILETRIES,Everyday regime,1.648,2.5705
+Product 783,TOILETRIES,Everyday regime,0.3666,3.88
+Product 784,TOILETRIES,Everyday regime,0.6316,1.455
+Product 785,TOILETRIES,Everyday regime,1.4008,2.7063
+Product 786,TOILETRIES,Everyday regime,9.3797,16.4803
+Product 787,TOILETRIES,Everyday regime,2.7904,5.8103
+Product 788,TOILETRIES,Everyday regime,2.2145,4.8403
+Product 789,TOILETRIES,Everyday regime,1.6274,3.0943
+Product 790,TOILETRIES,Everyday regime,3.4917,6.7803
+Product 791,TOILETRIES,Everyday regime,0.7255,5.3253
+Product 792,TOILETRIES,Everyday regime,1.5824,8.7203
+Product 793,TOILETRIES,Everyday regime,1.7904,5.4805
+Product 794,TOILETRIES,Everyday regime,5.3766,12.6003
+Product 795,TOILETRIES,Everyday regime,1.2339,6.7803
+Product 796,TOILETRIES,Everyday regime,4.096,7.7503
+Product 797,TOILETRIES,Everyday regime,1.3952,2.9003
+Product 798,TOILETRIES,Everyday regime,1.2438,11.1453
+Product 799,TOILETRIES,Everyday regime,0.4087,1.6975
+Product 800,TOILETRIES,Everyday regime,3.5703,6.7803
+Product 801,TOILETRIES,Everyday regime,1.6311,3.3853
+Product 802,TOILETRIES,Everyday regime,1.933,3.1913
+Product 803,TOILETRIES,Everyday regime,0.6631,5.3253
+Product 804,TOILETRIES,Everyday regime,1.6771,3.8703
+Product 805,TOILETRIES,Everyday regime,0.5324,1.94
+Product 806,TOILETRIES,Everyday regime,2.7904,5.8103
+Product 807,TOILETRIES,Everyday regime,1.868,7.7503
+Product 808,TOILETRIES,Everyday regime,5.0573,11.1453
+Product 809,TOILETRIES,Everyday regime,2.1527,11.1453
+Product 810,TOILETRIES,Everyday regime,0.2437,0.97
+Product 811,TOILETRIES,Everyday regime,0.3474,3.3853
+Product 812,TOILETRIES,Everyday regime,2.0085,3.8703
+Product 813,TOILETRIES,Everyday regime,2.2596,5.8103
+Product 814,TOILETRIES,Everyday regime,2.4617,4.8403
+Product 815,TOILETRIES,Everyday regime,1.6274,3.0943
+Product 816,TOILETRIES,Everyday regime,0.6697,5.3253
+Product 817,TOILETRIES,Everyday regime,3.0779,5.8103
+Product 818,TOILETRIES,Everyday regime,2.4203,5.335
+Product 819,TOILETRIES,Everyday regime,1.6311,3.3853
+Product 820,TOILETRIES,Everyday regime,0.9069,5.3253
+Product 821,TOILETRIES,Everyday regime,1.6311,3.3853
+Product 822,TOILETRIES,Everyday regime,0.6431,5.3253
+Product 823,TOILETRIES,Everyday regime,0.5731,1.455
+Product 824,TOILETRIES,Everyday regime,1.1055,11.6303
+Product 825,TOILETRIES,Everyday regime,4.2061,9.6903
+Product 826,TOILETRIES,Everyday regime,2.575,5.8103
+Product 827,TOILETRIES,Everyday regime,1.1873,8.7203
+Product 828,TOILETRIES,Everyday regime,4.6575,9.6903
+Product 829,TOILETRIES,Everyday regime,1.5435,10.1753
+Product 830,TOILETRIES,Everyday regime,5.0573,11.6303
+Product 831,TOILETRIES,Everyday regime,1.7904,5.4805
+Product 832,TOILETRIES,Everyday regime,1.648,3.4823
+Product 833,TOILETRIES,Everyday regime,1.3276,8.7203
+Product 834,TOILETRIES,Everyday regime,1.0094,1.9303
+Product 835,TOILETRIES,Everyday regime,2.7904,5.8103
+Product 836,TOILETRIES,Everyday regime,3.5149,7.7503
+Product 837,TOILETRIES,Everyday regime,0.5047,1.455
+Product 838,TOILETRIES,Everyday regime,1.6789,4.1613
+Product 839,TOILETRIES,Everyday regime,0.471,1.455
+Product 840,TOILETRIES,Everyday regime,1.878,4.8403
+Product 841,TOILETRIES,Everyday regime,0.754,1.94
+Product 842,TOILETRIES,Everyday regime,3.5149,7.7503
+Product 843,TOILETRIES,Everyday regime,2.6311,6.7803
+Product 844,TOILETRIES,Everyday regime,0.5676,1.455
+Product 845,TOILETRIES,Everyday regime,2.4583,4.7918
+Product 846,TOILETRIES,Everyday regime,3.252,6.7803
+Product 847,TOILETRIES,Everyday regime,0.4091,1.455
+Product 848,TOILETRIES,Everyday regime,1.3952,2.9003
+Product 849,TOILETRIES,Everyday regime,4.6575,9.6903
+Product 850,TOILETRIES,Everyday regime,1.5183,3.3465
+Product 851,TOILETRIES,Everyday regime,0.5632,1.455
+Product 852,TOILETRIES,Everyday regime,2.7904,5.8103
+Product 853,TOILETRIES,Everyday regime,5.3766,12.6003
+Product 854,TOILETRIES,Everyday regime,1.8128,3.1913
+Product 855,TOILETRIES,Everyday regime,0.2379,1.455
+Product 856,TOILETRIES,Everyday regime,2.0811,7.7503
+Product 857,TOILETRIES,Everyday regime,6.4375,15.2775
+Product 858,TOILETRIES,Everyday regime,2.7904,5.8103
+Product 859,TOILETRIES,Everyday regime,0.6491,3.88
+Product 860,TOILETRIES,Everyday regime,2.7904,5.8103
+Product 861,TOILETRIES,Everyday regime,2.0085,4.0643
+Product 862,TOILETRIES,Everyday regime,3.252,6.7803
+Product 863,TOILETRIES,Everyday regime,2.0688,5.3253
+Product 864,TOILETRIES,Everyday regime,0.4807,1.455
+Product 865,TOILETRIES,Everyday regime,1.5183,3.3465
+Product 866,TOILETRIES,Everyday regime,0.2174,1.455
+Product 867,TOILETRIES,Everyday regime,1.648,3.7733
+Product 868,TOILETRIES,Everyday regime,4.9711,8.7203
+Product 869,TOILETRIES,Everyday regime,1.7834,11.1453
+Product 870,TOILETRIES,Everyday regime,0.6667,7.7503
+Product 871,TOILETRIES,Everyday regime,2.6311,6.7803
+Product 872,TOILETRIES,Everyday regime,5.6238,14.2493
+Product 873,TOILETRIES,Everyday regime,1.8643,4.1613
+Product 874,TOILETRIES,Everyday regime,0.5691,1.455
+Product 875,TOILETRIES,Everyday regime,3.724,7.7503
+Product 876,TOILETRIES,Everyday regime,1.439,9.6903
+Product 877,TOILETRIES,Everyday regime,3.724,7.7503
+Product 878,TOILETRIES,Everyday regime,3.252,6.7803
+Product 879,TOILETRIES,Everyday regime,2.5647,4.8403
+Product 880,TOILETRIES,Everyday regime,3.724,7.7503
+Product 881,TOILETRIES,Everyday regime,3.5149,7.7503
+Product 882,TOILETRIES,Everyday regime,0.3404,0.97
+Product 883,TOILETRIES,Everyday regime,0.2174,1.455
+Product 884,TOILETRIES,Everyday regime,2.5839,8.7203
+Product 885,TOILETRIES,Everyday regime,0.6116,1.455
+Product 886,TOILETRIES,Everyday regime,1.7304,3.3465
+Product 887,TOILETRIES,Everyday regime,0.3181,1.455
+Product 888,TOILETRIES,Everyday regime,0.2174,1.455
+Product 889,TOILETRIES,Everyday regime,1.3952,2.9003
+Product 890,TOILETRIES,Everyday regime,3.2136,0.0097
+Product 891,TOILETRIES,Everyday regime,1.5064,3.8703
+Product 892,TOILETRIES,Everyday regime,2.7904,5.8103
+Product 893,TOILETRIES,Everyday regime,0.4996,1.455
+Product 894,TOILETRIES,Everyday regime,2.8737,5.8103
+Product 895,TOILETRIES,Everyday regime,1.8569,3.8703
+Product 896,TOILETRIES,Everyday regime,1.8569,3.8703
+Product 897,TOILETRIES,Everyday regime,4.6575,9.6903
+Product 898,TOILETRIES,Everyday regime,4.096,7.7503
+Product 899,TOILETRIES,Everyday regime,1.8849,3.8703
+Product 900,TOILETRIES,Everyday regime,3.724,7.7503
+Product 901,TOILETRIES,Everyday regime,5.1191,10.6603
+Product 902,TOILETRIES,Everyday regime,1.1921,9.6903
+Product 903,TOILETRIES,Everyday regime,1.2623,5.3253
+Product 904,TOILETRIES,Everyday regime,0.5346,1.455
+Product 905,TOILETRIES,Everyday regime,4.3466,9.6903
+Product 906,TOILETRIES,Everyday regime,0.8536,4.3553
+Product 907,TOILETRIES,Everyday regime,1.5064,3.8703
+Product 908,TOILETRIES,Everyday regime,3.5149,7.7503
+Product 909,TOILETRIES,Everyday regime,0.2447,0.97
+Product 910,TOILETRIES,Everyday regime,1.1404,5.82
+Product 911,TOILETRIES,Everyday regime,0.9233,1.9303
+Product 912,TOILETRIES,Everyday regime,1.8128,3.0555
+Product 913,TOILETRIES,Everyday regime,1.6311,3.3853
+Product 914,TOILETRIES,Everyday regime,0.6574,1.455
+Product 915,TOILETRIES,Everyday regime,1.8128,3.1913
+Product 916,TOILETRIES,Everyday regime,0.4524,1.455
+Product 917,TOILETRIES,Everyday regime,1.8679,4.8015
+Product 918,TOILETRIES,Everyday regime,0.2174,1.455
+Product 919,TOILETRIES,Everyday regime,0.2174,1.455
+Product 920,TOILETRIES,Everyday regime,5.3766,12.6003
+Product 921,TOILETRIES,Everyday regime,0.5331,1.455
+Product 922,TOILETRIES,Everyday regime,2.9664,11.1453
+Product 923,TOILETRIES,Everyday regime,1.8679,4.8015
+Product 924,TOILETRIES,Everyday regime,0.5654,1.6975
+Product 925,TOILETRIES,Everyday regime,1.8569,3.8703
+Product 926,TOILETRIES,Everyday regime,3.724,7.7503
+Product 927,TOILETRIES,Everyday regime,1.6311,3.3853
+Product 928,TOILETRIES,Everyday regime,1.8679,4.8015
+Product 929,TOILETRIES,Everyday regime,1.5064,3.8703
+Product 930,TOILETRIES,Everyday regime,7.8795,15.5103
+Product 931,TOILETRIES,Everyday regime,0.6574,1.455
+Product 932,TOILETRIES,Everyday regime,1.5759,2.9973
+Product 933,TOILETRIES,Everyday regime,1.5244,2.9003
+Product 934,TOILETRIES,Everyday regime,1.6883,7.7503
+Product 935,TOILETRIES,Everyday regime,3.296,6.7803
+Product 936,TOILETRIES,Everyday regime,3.724,7.7503
+Product 937,TOILETRIES,Everyday regime,5.591,11.6303
+Product 938,TOILETRIES,Everyday regime,1.8746,10.6603
+Product 939,TOILETRIES,Everyday regime,1.8569,3.8703
+Product 940,TOILETRIES,Everyday regime,2.7089,11.6303
+Product 941,TOILETRIES,Everyday regime,0.4285,1.455
+Product 942,TOILETRIES,Everyday regime,0.9233,1.9303
+Product 943,TOILETRIES,Everyday regime,0.9561,1.9303
+Product 944,TOILETRIES,Everyday regime,0.4676,1.455
+Product 945,TOILETRIES,Everyday regime,1.5151,10.1753
+Product 946,TOILETRIES,Everyday regime,2.6162,9.6903
+Product 947,TOILETRIES,Everyday regime,2.6914,8.73
+Product 948,TOILETRIES,Everyday regime,3.724,7.7503
+Product 949,TOILETRIES,Everyday regime,0.3742,1.2125
+Product 950,TOILETRIES,Everyday regime,0.6574,1.455
+Product 951,TOILETRIES,Everyday regime,3.2136,0.0097
+Product 952,TOILETRIES,Everyday regime,0.2174,1.455
+Product 953,TOILETRIES,Everyday regime,2.5106,4.8403
+Product 954,TOILETRIES,Everyday regime,2.8325,5.8103
+Product 955,TOILETRIES,Everyday regime,1.4428,8.7203
+Product 956,TOILETRIES,Everyday regime,0.2174,1.455
+Product 957,TOILETRIES,Everyday regime,2.0888,4.8403
+Product 958,TOILETRIES,Everyday regime,0.781,1.455
+Product 959,TOILETRIES,Everyday regime,0.6829,1.455
+Product 960,TOILETRIES,Everyday regime,2.0888,4.8403
+Product 961,TOILETRIES,Everyday regime,3.724,7.7503
+Product 962,TOILETRIES,Everyday regime,3.7698,7.7503
+Product 963,TOILETRIES,Everyday regime,0.7107,1.6393
+Product 964,TOILETRIES,Everyday regime,1.5064,3.8703
+Product 965,TOILETRIES,Everyday regime,1.5064,3.8703
+Product 966,TOILETRIES,Everyday regime,1.8849,3.8703
+Product 967,TOILETRIES,Everyday regime,7.8795,15.5103
+Product 968,TOILETRIES,Everyday regime,8.755,19.3903
+Product 969,TOILETRIES,Everyday regime,1.3952,2.9003
+Product 970,TOILETRIES,Everyday regime,1.5064,3.8703
+Product 971,TOILETRIES,Everyday regime,1.8849,3.8703
+Product 972,TOILETRIES,Everyday regime,0.6574,1.455
+Product 973,TOILETRIES,Everyday regime,3.8463,11.64
+Product 974,TOILETRIES,Everyday regime,2.0888,4.8403
+Product 975,TOILETRIES,Everyday regime,1.9182,7.76
+Product 976,TOILETRIES,Everyday regime,3.296,6.7803
+Product 977,TOILETRIES,Everyday regime,1.933,3.1913
+Product 978,TOILETRIES,Everyday regime,2.0497,10.6603
+Product 979,TOILETRIES,Everyday regime,2.5106,4.8403
+Product 980,TOILETRIES,Everyday regime,0.9561,1.9303
+Product 981,TOILETRIES,Everyday regime,2.3098,8.73
+Product 982,TOILETRIES,Everyday regime,3.4647,9.7
+Product 983,TOILETRIES,Everyday regime,3.8463,11.64
+Product 984,TOILETRIES,Everyday regime,2.369,4.8403
+Product 985,TOILETRIES,Everyday regime,2.3098,7.76
+Product 986,TOILETRIES,Everyday regime,3.073,8.73
+Product 987,TOILETRIES,Everyday regime,3.8463,11.64
+Product 988,TOILETRIES,Everyday regime,3.8463,11.64
+Product 989,TOILETRIES,Everyday regime,1.3952,2.9003
+Product 990,TOILETRIES,Everyday regime,1.7608,3.686
+Product 991,TOILETRIES,Everyday regime,1.8569,3.8703
